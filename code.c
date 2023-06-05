@@ -48,8 +48,6 @@ void play_blackjack_games(Card deck[], char player_array[][STRING_LENGTH], int s
 int main()
 {
 
-	printf("File : waybt001_assign2.c\nAuthor : Batman\nStud ID : 0123456X\nEmail ID : waybt001\nThis is my own work as defined by the University's Academic Misconduct Policy.\n");
-
 	Card deck[MAX_CARDS]; /* Deck of cards of size MAX_CARDS (52) */
 
 	char player_array[MAX_PLAYERS][STRING_LENGTH] = {'\0'};
